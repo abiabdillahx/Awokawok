@@ -58,6 +58,7 @@ public class Game {
                                 case 2:
                                     spSkill = false;
                                     skillImmo = true;
+                                    System.out.println(">> Immortality telah aktif!! <<");
                                     // hpHero = immortal(hpHero, skillImmo);
                                     break;
                                 default:
